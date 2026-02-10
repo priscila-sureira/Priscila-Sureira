@@ -1,6 +1,6 @@
 🎓 Priscila Sureira
 
-Olá me chamo Priscila, sou uma estudante de Ciência da Computação, gosto muito de ver coisas relacionadas a Hardware e Cybersegurança, mas também vejo com bons olhos a área de programação. Atualmente sigo estudando sobre ambas.
+Olá, me chamo Priscila, sou uma estudante de Ciência da Computação, gosto muito de ver coisas relacionadas a Hardware e Cybersegurança, mas também vejo com bons olhos a área de programação. Atualmente sigo estudando sobre ambas.
 
 💻 Linguagens e Tecnologias
 
